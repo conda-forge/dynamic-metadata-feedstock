@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.0"
+  version: "0.7.0"
 
 package:
   name: dynamic-metadata
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/d/dynamic-metadata/dynamic_metadata-${{ version }}.tar.gz
-  sha256: a01ea4bbd5eda19b051889f9bc61d8d059d8113ff979fb3ce706343f4f6b9a73
+  sha256: d12ef1dc915eef5fcb09d5e4ac2e0f497c63cb06e332538c414d30bde1e8de36
 
 build:
   number: 0
